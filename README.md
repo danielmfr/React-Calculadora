@@ -2,4 +2,4 @@
 
 Criação de uma calculadora simples, utilizando o framework React
 
-https://user-images.githubusercontent.com/105618439/183274901-daeffd5d-3095-4d62-a08a-15e5e388dc0f.mp4
+https://user-images.githubusercontent.com/105618439/183274959-c0045023-eedc-4e90-baf1-60136bed94e4.mp4
